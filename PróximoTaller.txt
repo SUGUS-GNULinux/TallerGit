@@ -1,2 +1,2 @@
 Sugus -> Cosas Libres
-Angular
+Angular,Tensorflow, scikit-learn, cosas nazis de ese estilo
