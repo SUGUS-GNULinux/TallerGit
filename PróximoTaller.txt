@@ -1,5 +1,11 @@
 Sugus -> Cosas Libres
+<<<<<<< HEAD
 Angular
 Tensorflow, scikit-learn, cosas nazis de ese estilo
 Pablo: Licencias!
+=======
+Virako -> Angular
+Alejandro -> Tensorflow, scikit-learn, cosas nazis de ese estilo
+Pablo -> Licencias!
+>>>>>>> 4d5af97476adf313cf3ac798f6952c28daca1a4a
 
