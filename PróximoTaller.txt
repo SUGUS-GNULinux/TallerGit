@@ -3,3 +3,4 @@ Angular
 Tensorflow, scikit-learn, cosas nazis de ese estilo
 Licencias!
 Igual hace falta una tercera de Git
+Pablo: Licencias!
