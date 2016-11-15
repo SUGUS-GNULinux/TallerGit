@@ -2,3 +2,4 @@ Sugus -> Cosas Libres
 Angular
 Tensorflow, scikit-learn, cosas nazis de ese estilo
 Pablo: Licencias!
+otra...
