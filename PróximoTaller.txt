@@ -1,1 +1,2 @@
 Sugus -> Cosas Libres
+Tensorflow, scikit-learn, cosas nazis de ese estilo
